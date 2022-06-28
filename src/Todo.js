@@ -42,7 +42,7 @@ function Todo() {
                     // }
                     
 
-                    // console.log(newlist())
+                   
     }
     
     
